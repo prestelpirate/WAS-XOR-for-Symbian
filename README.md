@@ -1,0 +1,1 @@
+# WAS-XOR-for-Symbian
